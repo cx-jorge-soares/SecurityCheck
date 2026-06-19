@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author KSASAN preetkaran20@gmail.com
  */
+private string Password="234567S";
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) {
